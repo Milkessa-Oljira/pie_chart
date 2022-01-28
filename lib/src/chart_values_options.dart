@@ -13,7 +13,7 @@ class ChartValuesOptions {
 
   const ChartValuesOptions({
     this.showChartValueBackground = true,
-    this.decimalPlaces = 1,
+    this.decimalPlaces = 0,
     this.chartValueBackgroundColor,
     this.showChartValuesInPercentage = false,
     this.chartValueStyle = defaultChartValueStyle,
